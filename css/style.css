@@ -1,0 +1,54 @@
+
+header ul li {
+  display:inline-block;
+  margin:20px;
+}
+header ul{
+  display:inline-block;
+}
+body{
+  
+  text-align:center;
+}
+#hero {
+  display: inline-block;
+   margin:20px;
+  text-align:center; 
+}
+#main{
+  /* display: inline-block;  */
+  margin:10px ;
+  text-align: center;
+   /* display:flex;
+  justify-content:space-evenly; */
+}
+#main img{
+  margin:14px;
+}
+
+header {
+background-color:gray;
+display:flex;
+justify-content: space-evenly;
+}
+footer{
+  margin:14px;
+  height:80px;
+  background-color: grey;
+}
+button{
+  background-color: black;
+  color:white;
+}
+#feature{
+  display: flex;
+  justify-content: center;
+  
+ 
+}
+#feature p{
+  overflow: scroll;
+  width:400px;
+  height:400px;
+  margin-left: 90px;
+}
